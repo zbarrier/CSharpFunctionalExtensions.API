@@ -1,7 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <PackageId>CSharpFunctionalExtensions.API</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>CSharpFunctionalExtensions.API</Authors>
+    <PackageProjectUrl>https://github.com/zbarrier/CSharpFunctionalExtensions.API</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/zbarrier/CSharpFunctionalExtensions.API</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
