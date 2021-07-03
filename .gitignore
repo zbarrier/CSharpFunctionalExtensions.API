@@ -17,5 +17,6 @@ _ReSharper*
 project.lock.json
 project.fragment.lock.json
 .vs
-/CSharpFunctionalExtensions/CSharpFunctionalExtensions.xml
+/CSharpFunctionalExtensions.API/CSharpFunctionalExtensions.API.xml
 *ncrunch*
+nuget.config
